@@ -24,7 +24,8 @@ Este repositório contém o backend desenvolvido com **Flask**, permitindo geren
 
 ### 🔹 Pré-requisitos  
 Antes de rodar o backend, certifique-se de ter instalado:  
-✔ **Python 3.7+**  #adquirir ni microsoft store por mais que ja tenha baixado no pc.
+✔ **Python 3.7+**  
+#adquirir ni microsoft store por mais que ja tenha baixado no pc.
 ✔ **Pip** (gerenciador de pacotes do Python)  
 
 ### 🔹 Instalação  
