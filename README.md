@@ -16,9 +16,7 @@ Este repositório contém o backend desenvolvido com **Flask**, permitindo geren
 
 /backend │── app.py # Arquivo principal do backend │── /migrations # Diretório de migrações do banco de dados └── requirements.txt # Dependências do projeto
 
-yaml
-Copiar
-Editar
+
 
 ---
 
@@ -26,7 +24,7 @@ Editar
 
 ### 🔹 Pré-requisitos  
 Antes de rodar o backend, certifique-se de ter instalado:  
-✔ **Python 3.7+**  
+✔ **Python 3.7+**  #adquirir ni microsoft store por mais que ja tenha baixado no pc.
 ✔ **Pip** (gerenciador de pacotes do Python)  
 
 ### 🔹 Instalação  
@@ -47,6 +45,9 @@ venv\Scripts\activate
 source venv/bin/activate  
 
 3️⃣ Instale as dependências:
+#instale o pip no link abaixo:
+
+https://bootstrap.pypa.io/get-pip.py
 
 pip install -r requirements.txt
 
