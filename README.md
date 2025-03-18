@@ -37,8 +37,15 @@ git clone https://github.com/SEU-REPOSITORIO/backend.git
 cd backend
 2️⃣ Crie um ambiente virtual (opcional, mas recomendado):
 
+# Criar um ambiente virtual
 python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
+
+# Ativar no Windows
+venv\Scripts\activate  
+
+# Ativar no Linux/Mac
+source venv/bin/activate  
+
 3️⃣ Instale as dependências:
 
 pip install -r requirements.txt
