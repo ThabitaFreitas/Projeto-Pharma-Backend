@@ -37,26 +37,20 @@ git clone https://github.com/SEU-REPOSITORIO/backend.git
 cd backend
 2️⃣ Crie um ambiente virtual (opcional, mas recomendado):
 
-bash
-Copiar
-Editar
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 3️⃣ Instale as dependências:
 
-bash
-Copiar
-Editar
 pip install -r requirements.txt
+
 4️⃣ Configure o banco de dados:
+
 O SQLite cria automaticamente um arquivo chamado site.db ao rodar o servidor pela primeira vez.
 
 5️⃣ Execute o servidor Flask:
 
-bash
-Copiar
-Editar
 python app.py
+
 🔹 O servidor estará disponível em: http://localhost:5153
 
 
@@ -70,8 +64,6 @@ GET /marketing-actions
 📥 Resposta:
 
 json
-Copiar
-Editar
 [
     {
         "id": 1,
