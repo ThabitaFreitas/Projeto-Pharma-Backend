@@ -55,11 +55,9 @@ python app.py
 
 
 
+📡 **Endpoints da API**  
+A API permite gerenciar as ações de marketing através das operações **CRUD**.
 
-
-
-📡 Endpoints da API
-A API permite gerenciar as ações de marketing através das operações CRUD.
 
 🔹 1. Listar todas as ações de marketing
 GET /marketing-actions
