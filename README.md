@@ -30,9 +30,9 @@ Antes de rodar o backend, certifique-se de ter instalado:
 
 ### ★ Instalação  
 
-**Clone o repositório:**  
+**Clone o repositório:** 
 
- Crie um ambiente virtual (opcional)
+ #Crie um ambiente virtual (opcional)
 
 # Criar um ambiente virtual
 python -m venv venv
@@ -41,13 +41,13 @@ venv\Scripts\activate
 # Ativar no Linux/Mac
 source venv/bin/activate 
 
- Instale as dependências:
+ #Instale as dependências:
 
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
  Configure o banco de dados:
 
-O SQLite cria automaticamente um arquivo chamado site.db ao rodar o servidor pela primeira vez.
+ O SQLite cria automaticamente um arquivo chamado site.db ao rodar o servidor pela primeira vez.
 
 Execute o servidor Flask:
 
