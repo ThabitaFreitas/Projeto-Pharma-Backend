@@ -65,9 +65,9 @@ python app.py
 | ** DELETE** | `/marketing-actions/{id}`    |  Deletar uma ação       |
 
 ---
-### 🌺 Exemplos de Requisição 🌺
+### ˚₊‧ ୨୧ ‧₊˚ ⋅ Exemplos de Requisição ˚₊‧ ୨୧ ‧₊˚ ⋅
 
-#### 🎀 Criar uma nova ação 🎀
+#### ★ Criar uma nova ação ★
 ```http
 POST /marketing-actions
 ```
@@ -80,7 +80,7 @@ POST /marketing-actions
 }
 ```
 
-#### 💕 Atualizar uma ação 💕
+#### ★ Atualizar uma ação 
 ```http
 PATCH /marketing-actions/{id}
 ```
