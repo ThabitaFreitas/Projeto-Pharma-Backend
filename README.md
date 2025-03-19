@@ -12,9 +12,10 @@ Este repositório contém o backend desenvolvido com **Flask**, permitindo geren
 
 ---
 
-## 📂 Estrutura do Projeto  
-
-/backend │── app.py # Arquivo principal do backend │── /migrations # Diretório de migrações do banco de dados └── requirements.txt # Dependências do projeto
+📂 Projeto
+ ├── 📂 backend
+ │   ├── 📄 app.py           # Arquivo principal do backend
+ │   ├── 📄 requirements.txt # Dependências do projeto
 
 
 
