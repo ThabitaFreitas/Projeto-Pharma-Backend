@@ -53,7 +53,7 @@ O SQLite cria automaticamente um arquivo chamado site.db ao rodar o servidor pel
 python app.py
 
 
-
+---
 
 📡 **Endpoints da API**  
 A API permite gerenciar as ações de marketing através das operações **CRUD**.
