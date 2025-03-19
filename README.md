@@ -52,7 +52,8 @@ O SQLite cria automaticamente um arquivo chamado site.db ao rodar o servidor pel
 
 python app.py
 
-🔹 O servidor estará disponível em: http://localhost:5153
+
+
 
 
 
