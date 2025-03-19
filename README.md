@@ -30,24 +30,17 @@ Antes de rodar o backend, certifique-se de ter instalado:
 ### 🔹 Instalação  
 
 1️⃣ **Clone o repositório:**  
-```bash
-git clone https://github.com/SEU-REPOSITORIO/backend.git
-cd backend
-2️⃣ Crie um ambiente virtual (opcional, mas recomendado):
+
+2️⃣ Crie um ambiente virtual (opcional)
 
 # Criar um ambiente virtual
 python -m venv venv
-
 # Ativar no Windows
 venv\Scripts\activate  
-
 # Ativar no Linux/Mac
-source venv/bin/activate  
+source venv/bin/activate 
 
 3️⃣ Instale as dependências:
-#instale o pip no link abaixo:
-
-https://bootstrap.pypa.io/get-pip.py
 
 pip install -r requirements.txt
 
