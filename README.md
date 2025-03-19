@@ -32,7 +32,7 @@ Antes de rodar o backend, certifique-se de ter instalado:
 
 **Clone o repositório:** 
 
- #Crie um ambiente virtual (opcional)
+ -Crie um ambiente virtual (opcional)
 
 # Criar um ambiente virtual
 python -m venv venv
