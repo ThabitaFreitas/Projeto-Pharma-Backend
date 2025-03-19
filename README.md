@@ -81,62 +81,7 @@ Atualizar uma ação
 Deletar uma ação  
 
 
----
-### ˚₊‧ ୨୧ ‧₊˚ ⋅ Exemplos de Requisição ˚₊‧ ୨୧ ‧₊˚ ⋅
 
-1. GET /marketing-actions
-
-Obtém todas as ações de marketing registradas.
-
-Resposta de Sucesso (200):
-[
-    {
-        "id": 1,
-        "action": "Palestra",
-        "predicted_date": "15/04/2025",
-        "predicted_investment": 5000.00
-    }
-]
-
-2. POST /marketing-actions
-
-Cria uma nova ação de marketing.
-
-Corpo da Requisição:
-{
-    "action": "Palestra",
-    "predicted_date": "20/04/2025",
-    "predicted_investment": 2000.00
-}
-Resposta de Sucesso (201):
-{
-    "id": 2,
-    "action": "Palestra",
-    "predicted_date": "20/04/2025",
-    "predicted_investment": 2000.00
-}
-3. DELETE /marketing-actions/{id}
-
-Deleta uma ação de marketing com base no ID.
-
-Resposta de Sucesso (200):
-{
-    "message": "Ação deletada com sucesso!"
-}
-4. PATCH /marketing-actions/{id}
-
-Atualiza uma ação de marketing existente com base no ID.
-
-Corpo da Requisição:
-{
-    "action": "Evento",
-    "predicted_date": "25/05/2025",
-    "predicted_investment": 3000.00
-}
-Resposta de Sucesso (200):
-{
-    "message": "Ação atualizada com sucesso!"
-}
 #### 🌷 Respostas 🌷
 
 |  Código  |  Significado                 |
