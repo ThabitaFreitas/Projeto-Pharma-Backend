@@ -22,36 +22,43 @@ Este repositório contém o backend desenvolvido com **Flask**, permitindo geren
 
 ## ˚. 🎀  Como Rodar o Backend  
 
-### ★ Pré-requisitos  
+## ★ Pré-requisitos  
 Antes de rodar o backend, certifique-se de ter instalado:  
-✔ **Python 3.7+**  
-✔ **Pip** (gerenciador de pacotes do Python)  
 
-### ★ Instalação  
+- ✔ **Python 3.7+**  
+- ✔ **Pip** (gerenciador de pacotes do Python)  
 
-**Clone o repositório:** 
+---
 
- -Crie um ambiente virtual (opcional)
+## ★ Instalação  
+
+### 1️⃣ Clone o repositório  
+
+git clone <URL_DO_REPOSITORIO>
+cd <NOME_DO_REPOSITORIO>
+
+2️⃣ Crie um ambiente virtual (opcional)
 
 # Criar um ambiente virtual
 python -m venv venv
+
 # Ativar no Windows
 venv\Scripts\activate  
+
 # Ativar no Linux/Mac
-source venv/bin/activate 
+source venv/bin/activate  
 
- #Instale as dependências:
+3️⃣ Instale as dependências
 
- pip install -r requirements.txt
+pip install -r requirements.txt
 
- Configure o banco de dados:
+4️⃣ Configure o banco de dados
 
- O SQLite cria automaticamente um arquivo chamado site.db ao rodar o servidor pela primeira vez.
+O SQLite cria automaticamente um arquivo chamado site.db ao rodar o servidor pela primeira vez.
 
-Execute o servidor Flask:
+5️⃣ Execute o servidor Flask
 
 python app.py
-
 
 ---
 ---
