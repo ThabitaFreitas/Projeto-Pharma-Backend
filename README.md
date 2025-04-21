@@ -3,7 +3,7 @@ Este repositório contém o backend desenvolvido com **Flask**, permitindo geren
 ---
 ## 🛠 Tecnologias Utilizadas  
 ✧ **Flask** → Framework web para Python.  
-✧ **SQLAlchemy** → ORM para interagir com o banco de dados SQLite.  
+✧ **SQLAlchemy** → ORM para interagir com o banco de dados Postgre.  
 ✧ **Flask-CORS** → Habilita requisições de diferentes origens (CORS).   
 ---
 📂 Projeto  
